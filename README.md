@@ -67,12 +67,13 @@
 
 ---
 
-### 🌐 Language Detection System
-> ML-based automatic language classifier from raw text input
+### 📚 [Django Library ORM](https://github.com/PGupta2911/django-library-orm)
+> Library management system demonstrating advanced Django ORM capabilities
 
-- Text preprocessing + feature extraction pipeline
-- Supervised learning model with multi-language prediction
-- **Tech:** Python, Machine Learning, Scikit-learn, Text Preprocessing
+- CRUD operations with relational database design using Django ORM
+- Demonstrates filtering, search, select_related and prefetch_related lookups
+- Clean REST API endpoints built with Django REST Framework
+- **Tech:** Python, Django, DRF, Django ORM, SQLite, REST APIs
 
 ---
 
@@ -93,9 +94,9 @@
 
 ## 📊 GitHub Stats
 
-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=PGupta2911&show_icons=true&theme=default&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PGupta2911&theme=default&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PGupta2911&layout=compact&theme=default&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PGupta2911&layout=compact&hide_border=true&langs_count=6)](https://github.com/PGupta2911)
 
 ---
 
